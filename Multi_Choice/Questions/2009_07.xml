@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<question title="1.银行的账务组织是依据同一会计凭证进行(2009年7月)" answer="明细核算系统和综合核算系统分别核算的账务体系" note="">
+<choice>明细核算的账务体系</choice>
+<choice>综合核算的账务体系</choice>
+<choice>明细核算和综合核算的账务体系</choice>
+<choice>明细核算系统和综合核算系统分别核算的账务体系</choice>
+</question>
+<question title="2.下列核算未体现权责发生制会计核算基础的是(2009年7月)" answer="贷款按实际贷出的金额入账" note="">
+<choice>贷款按实际贷出的金额入账</choice>
+<choice>计提固定资产的折旧费</choice>
+<choice>摊销无形资产</choice>
+<choice>计提各项贷款的应收利息</choice>
+</question>
+<question title="3.下列不属于银行结算账户的是(2009年7月)" answer="个人结算账户" note="">
+<choice>临时存款帐户</choice>
+<choice>定期存款账户</choice>
+<choice>基本存款帐户</choice>
+<choice>个人结算账户</choice>
+</question>
+<question title="4.商业银行能够吸收存款、发放贷款，这体现出的商业银行的功能是(2009年7月)" answer="信用中介" note="">
+<choice>支付中介</choice>
+<choice>提供金融服务</choice>
+<choice>创造货币信用</choice>
+<choice>信用中介</choice>
+</question>
+<question title="5.银行对抵押贷款一般采用的核算方式是(2009年7月)" answer="逐笔核贷" note="">
+<choice>定期调整</choice>
+<choice>逐笔核贷</choice>
+<choice>存贷合一</choice>
+<choice>下贷上转</choice>
+</question>
+<question title="6.适用于余额表计息科目和不计息科目的分户账是(2009年7月)" answer="甲种账" note="">
+<choice>丙种账</choice>
+<choice>乙种账</choice>
+<choice>甲种账</choice>
+<choice>丁种账</choice>
+</question>
+<question title="7.银行贷款按贷款人承担的经济责任划分，可分为(2009年7月)" answer="自营贷款和委托贷款" note="">
+<choice>自营贷款和委托贷款</choice>
+<choice>短期贷款和中长期贷款</choice>
+<choice>信用贷款和担保贷款</choice>
+<choice>正常贷款和不良贷款</choice>
+</question>
+<question title="8.银行代收他行的票据，必须坚持(2009年7月)" answer="“收妥入账”" note="">
+<choice>“先收款、后记账”</choice>
+<choice>“先记账、后付款”</choice>
+<choice>“收妥入账”</choice>
+<choice>“先记付款单位账，后记收款单位账”</choice>
+</question>
+<question title="9.出票行接到收款人交来“现金”字样的现金本票时，应审查本票收款人是否(2009年7月)" answer="确为个人" note="">
+<choice>确为法人</choice>
+<choice>确为其他组织</choice>
+<choice>确为本行开户</choice>
+<choice>确为个人</choice>
+</question>
+<question title="10.将抵债资产入账时，其入账价值是(2009年7月)" answer="抵债资产净值" note="">
+<choice>抵债资产的原账面价值</choice>
+<choice>贷款本金</choice>
+<choice>抵债资产净值</choice>
+<choice>实际抵债部分的贷款本金和已确认的利息</choice>
+</question>
+<question title="11.商业汇票的提示付款期为(2009年7月)" answer="10天" note="">
+<choice>10天</choice>
+<choice>1个月</choice>
+<choice>2个月</choice>
+<choice>6个月</choice>
+</question>
+<question title="12.在电子汇划业务中，“清算资金往来”账户是(2009年7月)" answer="资产、负债共同类账户" note="">
+<choice>资产类账户</choice>
+<choice>负债类账户</choice>
+<choice>所有者权益类账户</choice>
+<choice>资产、负债共同类账户</choice>
+</question>
+<question title="13.商业银行缴存一般性存款准备金(2009年7月)" answer="由总行按旬末一般性存款科目余额的14.5%统一缴存" note="">
+<choice>由总行按月末一般性存款科目余额的14.5%统一缴存</choice>
+<choice>由总行按旬末一般性存款科目余额的14.5%统一缴存</choice>
+<choice>由各分行按月末一般性存款科目余额的14.5%就地缴存</choice>
+<choice>由各分行按旬末一般性存款科目余额的14.5%就地缴存</choice>
+</question>
+<question title="14.银行计息时若采用“累计日积数法”，其计息积数是指(2009年7月)" answer="本金×时间" note="">
+<choice>本金×时间</choice>
+<choice>本金×时间×利率</choice>
+<choice>本金×利率</choice>
+<choice>时间×利率</choice>
+</question>
+<question title="15.对出纳长款，如系确定无法查找归还的，经审批后可确认为银行的(2009年7月)" answer="营业外收入" note="">
+<choice>其他营业支出</choice>
+<choice>营业外支出</choice>
+<choice>营业外收入</choice>
+<choice>其他营业收入</choice>
+</question>
+<question title="16.以一定单位的本国货币为标准，折算成一定数额的外国货币的外汇标价法是指(2009年7月)" answer="间接标价法" note="">
+<choice>直接标价法</choice>
+<choice>买卖两档汇价制</choice>
+<choice>间接标价法</choice>
+<choice>中间价</choice>
+</question>
+<question title="17.在资产负债表上，固定资产减值准备应以(2009年7月)" answer="固定资产净值的减项反映" note="">
+<choice>固定资产原值的减项反映</choice>
+<choice>固定资产净值的减项反映</choice>
+<choice>固定资产原值的加项反映</choice>
+<choice>固定资产净值的加项反映</choice>
+</question>
+<question title="18.年末，银行会计应将全年实现的净利润（或亏损）总额，从“本年利润”账户转入(2009年7月)" answer="&quot;利润分配—未分配利润&quot;账户" note="">
+<choice>"利润分配—未分配利润"账户</choice>
+<choice>"营业收入"账户</choice>
+<choice>"实收资本"账户</choice>
+<choice>"盈余公积"账户</choice>
+</question>
+<question title="19.摊销无形资产借记的账户是(2009年7月)" answer="&quot;营业费用&quot;" note="">
+<choice>"其他营业支出"</choice>
+<choice>"营业外支出"</choice>
+<choice>"手续费支出"</choice>
+<choice>"营业费用"</choice>
+</question>
+<question title="20.能够反映商业银行一定时期财务状况增减变化过程及其原因的会计报表是(2009年7月)" answer="资产负债表" note="">
+<choice>现金流量表</choice>
+<choice>资产负债表</choice>
+<choice>利润表</choice>
+<choice>利润分配表</choice>
+</question>
+</root>

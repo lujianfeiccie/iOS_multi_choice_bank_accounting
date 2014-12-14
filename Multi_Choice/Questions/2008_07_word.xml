@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<question>
+<text tag="question" value="26.重要性原则"/>
+<text tag="answer" value="是指企业提供的会计信息应当反映与企业财务状况、经营成果和现金流有关的所有重要交易或事项"/>
+</question>
+<question>
+<text tag="question" value="27.余额表"/>
+<text tag="answer" value="余额表又分为计息余额表和一般余额表两种。余额表按科目分别填写，将每一科目所属各分户账的余额填入余额表后，其是核对账簿记录和计息的工具。"/>
+</question>
+<question>
+<text tag="question" value="28.商业汇票"/>
+<text tag="answer" value="商业汇票是出票人签发的，委托付款人在指定日期无条件支付确定的金额汇票给收款人或者持票人的票据。包括商业承兑汇票和银行承兑汇票。"/>
+</question>
+<question>
+<text tag="question" value="29.金融企业往来支出"/>
+<text tag="answer" value="金融企业往来支出是银行与有关金融企业之间因资金往来而发生的利息支出。"/>
+</question>
+</root>

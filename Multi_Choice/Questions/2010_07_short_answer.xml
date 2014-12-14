@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<question>
+<text tag="question" value="33．A.在银行开户的甲公司，其活期存款账户至5月31日的存款余额为500 000元，
+累计未计息积数为8 000 000。6月份银行为甲公司办理了如下业务： (2010年7月)
+
+(1)6月5日转账付出100 000元；
+
+(2)6月16日转账收入200 000元；
+
+(3)6月20日转账付出400 000元； 
+
+
+要求：根据上述资料计算本季度甲公司的存款利息。设利率为0.36%。"/>
+<text tag="answer" value="计算：&#x0A;&#x0A;计息积数=8000000+2500000+3600000+2400000+2000000&#x0A;=9050000&#x0A;&#x0A;利息=  9050000*0.36%/360&#x0A;=90.5 元"/>
+</question>
+<question>
+<text tag="question" value="34．B.2009年8月5日，银行受理其开户单位乙公司提交的银行承兑汇票一份，该公司来
+
+
+
+  
+
+
+行办理贴现申请。经审查该汇票的到期日为12月5日，票面金额为1 000 000元，银行同意贴现。设贴现利率为3%。要求：计算贴现利息及实付贴现金额。(2010年7月)"/>
+<text tag="answer" value="实际天数 26+30+31+30+5=122&#x0A;&#x0A;利息=1000000*122*3%/365=10027.4  元&#x0A;&#x0A;实付金额=10000000-10027.4=989972.6元"/>
+</question>
+<question>
+<text tag="question" value="35.用银行存款购进实用型电脑10台单价6,000元。(2010年7月)"/>
+<text tag="answer" value="借：固定资产&#x0A;&#x0A;贷：银行存款"/>
+</question>
+<question>
+<text tag="question" value="36.A公司将转账支票和三联进账单提交银行用以支付在本系统不同行处开户的新光厂的购货款1700000元经审查无误立即转账。(2010年7月)"/>
+<text tag="answer" value="借：辖内往来&#x0A;&#x0A;贷：活期存款-A公司"/>
+</question>
+<question>
+<text tag="question" value="37.收到收报清算行传来数据打印资金汇划补充借方凭证一式两联(汇票金额1000000元实际结算金额900000元余额100000元)系开户B公司申办的银行汇票。经审查无误立即转账。(2010年7月)"/>
+<text tag="answer" value="借：汇出汇款&#x0A;&#x0A;贷：辖内往来&#x0A;&#x0A;活期存款"/>
+</question>
+<question>
+<text tag="question" value="38.开户C公司向银行提交银行“本票申请书”三联及转账支票申银行不定额本票1500000元经审查无误立即转账。(2010年7月)"/>
+<text tag="answer" value="借：活期存款&#x0A;&#x0A;贷：本票"/>
+</question>
+<question>
+<text tag="question" value="39.本行向跨系统的甲行拆入资金50000000元依据资金管理部门提交的借款合同副本和人民银行的收账通知填制凭证并作出账务处理。(2010年7月)"/>
+<text tag="answer" value="借：存放中央银行款项&#x0A;&#x0A;贷：同业拆入"/>
+</question>
+<question>
+<text tag="question" value="40.发生出纳长款一笔金额为200元。(2010年7月)"/>
+<text tag="answer" value="借：暂收款项&#x0A;&#x0A;贷：营业外收入"/>
+</question>
+<question>
+<text tag="question" value="41.经计算本期应摊销无形资产40,000元。(2010年7月)"/>
+<text tag="answer" value="借：营业费用&#x0A;&#x0A;贷：无形资产"/>
+</question>
+<question>
+<text tag="question" value="42.经查看当日有一笔申请人为D公司的银行承兑汇票90,000,000元现已到期。填制两借一贷特种转账传票办理转账。(2010年7月)"/>
+<text tag="answer" value="借：活期存款&#x0A;&#x0A;贷：应解汇款及临时存款"/>
+</question>
+</root>

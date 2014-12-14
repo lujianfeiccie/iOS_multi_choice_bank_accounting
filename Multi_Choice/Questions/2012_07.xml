@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<question title="1．下列各指标中，能够反映银行经营成果的是(2012年7月)" answer="成本率" note="">
+<choice>流动比率</choice>
+<choice>资本风险比率</choice>
+<choice>成本率</choice>
+<choice>固定资本比率</choice>
+</question>
+<question title="2．明细核算系统的主体是(2012年7月)" answer="分户账" note="">
+<choice>科目总账</choice>
+<choice>分户账</choice>
+<choice>余额表</choice>
+<choice>登记簿</choice>
+</question>
+<question title="3．为了实现政策性金融和商业性金融相分离，割断政策性贷款和基础货币的直接联系，应建立(2012年7月)" answer="中央银行" note="">
+<choice>政策性银行</choice>
+<choice>商业银行</choice>
+<choice>中央银行</choice>
+<choice>非银行金融机构</choice>
+</question>
+<question title="4．年末，银行会计应将全年实现的净利润(或亏损)总额，从“本年利润”账户转入(2012年7月)" answer="“利润分配一未分配利润”账户" note="">
+<choice>“营业收入”账户</choice>
+<choice>“盈余公积”账户</choice>
+<choice>“实收资本”账户</choice>
+<choice>“利润分配一未分配利润”账户</choice>
+</question>
+<question title="5．银行会计根据原始凭证或业务事实自行编制的凭证是(2012年7月)" answer="基本凭证" note="">
+<choice>单式凭证</choice>
+<choice>基本凭证</choice>
+<choice>复式凭证</choice>
+<choice>特定凭证</choice>
+</question>
+<question title="6．存款人在基本存款账户开户银行以外的银行开立的，用于办理存款人借款转存、借款归还和其他结算的资金收付的款账户是指(2012年7月)" answer="一般存款账户" note="">
+<choice>基本存款账户</choice>
+<choice>一般存款账户</choice>
+<choice>临时存款账户</choice>
+<choice>专用存款账户</choice>
+</question>
+<question title="7．银行计息时若采用“累计日积数法”，其计息积数是指(2012年7月)" answer="本金×时间" note="">
+<choice>本金×时间</choice>
+<choice>本金×时间×利率</choice>
+<choice>本金×利率</choice>
+<choice>时间×利率</choice>
+</question>
+<question title="8．我国贷款业务核算方式主要采用(2012年7月)" answer="逐笔核贷" note="">
+<choice>存贷合一</choice>
+<choice>定期调整</choice>
+<choice>逐笔核贷</choice>
+<choice>下贷上转</choice>
+</question>
+<question title="9．银行贷款中，到期(含展期)后未能收回的贷款称为(2012年7月)" answer="呆账贷款" note="">
+<choice>正常贷款</choice>
+<choice>逾期贷款</choice>
+<choice>呆账贷款</choice>
+<choice>呆滞贷款</choice>
+</question>
+<question title="10．在银行开立存款账户的法人以及其他组织之间，当具有真实的交易关系或债权、债务关系时，办理结算才能使用(2012年7月)" answer="商业汇票结算" note="">
+<choice>银行汇票结算</choice>
+<choice>银行本票结算</choice>
+<choice>支票结算</choice>
+<choice>商业汇票结算</choice>
+</question>
+<question title="11．银行本票的提示付款期限，自出票日起最长不得超过(2012年7月)" answer="2个月" note="">
+<choice>10天</choice>
+<choice>1个月</choice>
+<choice>2个月</choice>
+<choice>6个月</choice>
+</question>
+<question title="12．银行在经营外汇买卖和外汇兑换业务过程中，取得的收入是(2012年7月)" answer="汇兑收益" note="">
+<choice>利息收入</choice>
+<choice>手续费收入</choice>
+<choice>其他营业收入</choice>
+<choice>汇兑收益</choice>
+</question>
+<question title="13．属于银行自制的、无限期的、不可辨认的且不可转让的无形资产是指(2012年7月)" answer="商誉" note="">
+<choice>土地使用权</choice>
+<choice>商誉</choice>
+<choice>专营权</choice>
+<choice>商标权</choice>
+</question>
+<question title="14．跨系统商业银行以及其他金融企业之间的资金账务往来，称为(2012年7月)" answer="同业往来" note="">
+<choice>联行往来</choice>
+<choice>中央银行往来</choice>
+<choice>同业往来</choice>
+<choice>金融企业往来</choice>
+</question>
+<question title="15．银行在开办联行电子汇划与清算业务时，由于采用了卫星通信传输资金汇划信息，因此消灭了(2012年7月)" answer="汇差资金" note="">
+<choice>汇差资金</choice>
+<choice>纸制凭证</choice>
+<choice>在途资金</choice>
+<choice>备付金存款</choice>
+</question>
+<question title="16．在我国银行，营业收入的主体是指(2012年7月)" answer="利息收入" note="">
+<choice>利息收入</choice>
+<choice>其它业务收入</choice>
+<choice>手续费收入</choice>
+<choice>金融企业往来收入</choice>
+</question>
+<question title="17．以一定单位的本国货币作为标准，折算成一定数额的外国货币是指(2012年7月)" answer="间接标价法" note="">
+<choice>直接标价法</choice>
+<choice>中间价</choice>
+<choice>买卖两档汇价制</choice>
+<choice>间接标价法</choice>
+</question>
+<question title="18．根据现金管理条例，国家管理金银的主管机关是(2012年7月)" answer="中央银行" note="">
+<choice>商业银行</choice>
+<choice>中央银行</choice>
+<choice>政策性银行</choice>
+<choice>财政部</choice>
+</question>
+<question title="19．“待处理财产损溢”账户的贷方可记录盘盈固定资产的(2012年7月)" answer="净值" note="">
+<choice>原值</choice>
+<choice>净值</choice>
+<choice>转移价值</choice>
+<choice>重置安全价值</choice>
+</question>
+<question title="20．银行外汇业务在记账方法上的特点表现为采用(2012年7月)" answer="外汇分账制" note="">
+<choice>借贷复式记账法</choice>
+<choice>单式记账法</choice>
+<choice>外汇分账制</choice>
+<choice>外汇统账制</choice>
+</question>
+</root>

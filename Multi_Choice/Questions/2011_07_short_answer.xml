@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<question>
+<text tag="question" value="33.本行通过全国同业拆借市场向跨系统的甲行拆入的资金现已到期，金额为1，000，000元。经计算应支付利息金额为30，000元。作出还本付息的会计处理(2010年7月)"/>
+<text tag="answer" value="借：&#x0A;&#x0A;同业拆入&#x0A;&#x0A;利息支出&#x0A;&#x0A;贷：&#x0A;&#x0A;存放中央银行款项"/>
+</question>
+<question>
+<text tag="question" value="34.储户王刚来行选择了整存整取三年期定期储蓄存款，存款金额为50，000元，银行经审查无误立即办理开户手续。(2010年7月)"/>
+<text tag="answer" value="借：现金&#x0A;&#x0A;贷：整存整取定期储蓄账户-王刚"/>
+</question>
+<question>
+<text tag="question" value="35.收到系统内广州某分行的资金汇划信息，经审查是结清原对开户甲公司签发的银行汇票（汇票金额为900，000元，实际结算金额为888，000元，余额为12，000元），经审查无误立即办理转账。(2010年7月)"/>
+<text tag="answer" value="借：&#x0A;&#x0A;汇出汇款&#x0A;&#x0A;贷：&#x0A;&#x0A;辖内往来&#x0A;&#x0A;活期存款"/>
+</question>
+<question>
+<text tag="question" value="36.银行接受开户乙公司贴现的申请，经审查同意为其办理贴现业务。该银行承兑汇票期限为5个月，尚有120天到期，面额为5，000，000元。贴现利率确定为6%。立即办理转账。 (2010年7月)"/>
+<text tag="answer" value="借：&#x0A;&#x0A;贴现&#x0A;&#x0A;利息收入&#x0A;&#x0A;贷：&#x0A;&#x0A;活期存款-乙公司"/>
+</question>
+<question>
+<text tag="question" value="38.发生出纳长款一笔，金额为2，500元。(2010年7月)"/>
+<text tag="answer" value="借：暂收款项&#x0A;&#x0A;贷：营业外收入"/>
+</question>
+<question>
+<text tag="question" value="39.盘盈计算机一台，完全重置价值为30，000元，估计折旧为5000元。(2010年7月)"/>
+<text tag="answer" value="借：固定资产&#x0A;&#x0A;贷：累计折旧&#x0A;&#x0A;待处理财产损益"/>
+</question>
+<question>
+<text tag="question" value="40.经查看，当日有一笔申请人为丙公司的银行承兑汇票现已到期，金额为7，000，000元。填制两借一贷特种转账传票办理转账。(2010年7月)"/>
+<text tag="answer" value="借：活期存款&#x0A;&#x0A;贷：应解汇款及临时存款"/>
+</question>
+<question>
+<text tag="question" value="41.丁公司将转账支票和三联进账单提交开户行，用以支付在本系统不同行处开户的A厂的购货款，金额为228，600元，经审查无误立即办理转账。(2010年7月)"/>
+<text tag="answer" value="借：辖内往来&#x0A;&#x0A;贷：活期存款-丁公司"/>
+</question>
+<question>
+<text tag="question" value="42.甲公司来行提交一式三联“银行本票申请书”，要求开户行为其签发银行不定额本票 900，000元用于购货结算。经审查无误立即办理转账。(2010年7月)"/>
+<text tag="answer" value="借：活期存款-甲公司&#x0A;&#x0A;贷：本票-不定额本票"/>
+</question>
+<question>
+<text tag="question" value="43.本期末应交纳的营业税金为5，780，000元(2010年7月)"/>
+<text tag="answer" value="借：营业税金及附加&#x0A;&#x0A;贷：应缴税费"/>
+</question>
+<question>
+<text tag="question" value="44.M企业向开户行提交“银行汇票申请书”一式三联，申办银行汇票8，800，000元持往天津市购货。经审查无误立即办理转账。(2010年7月)"/>
+<text tag="answer" value="借：活期存款-M企业&#x0A;&#x0A;贷：汇出汇款"/>
+</question>
+<question>
+<text tag="question" value="45.本旬应调增缴存一般性存款500，000元。(2010年7月)"/>
+<text tag="answer" value="借：存放中央银行款项-准备金账户&#x0A;&#x0A;贷：辖内往来"/>
+</question>
+<question>
+<text tag="question" value="46.金鑫公司赠送全新激光打字机十台，原价每台为5，000元。收到后立即入账。(2010年7月)"/>
+<text tag="answer" value="借：固定资产&#x0A;&#x0A;贷：资本公积"/>
+</question>
+<question>
+<text tag="question" value="48.结转本季利息支出9，000，000元。(2010年7月)"/>
+<text tag="answer" value="借：本年利润&#x0A;&#x0A;贷：利息支出"/>
+</question>
+<question>
+<text tag="question" value="49.经计算，本期应摊销无形资产的金额为60，000元。(2010年7月)"/>
+<text tag="answer" value="借：营业费用&#x0A;&#x0A;贷：无形资产"/>
+</question>
+</root>

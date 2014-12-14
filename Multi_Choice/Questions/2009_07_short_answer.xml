@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<question>
+<text tag="question" value="34.2007年7月1日,储户李宏来行到期支取其所存入的整存整取2年期定期储蓄存款，金额 为50000元，存款时约定利率为2.70%，支取日该档期存款利率为3.69%;支取日利息所得税税率为20%,经审查立即办理。(2009年7月)"/>
+<text tag="answer" value="利息=50000*2*2.70%*(1-20%)=2160 元&#x0A;&#x0A;借：定期存款-整存整取&#x0A;&#x0A;应计利息&#x0A;&#x0A;贷：活期存款-李红"/>
+</question>
+<question>
+<text tag="question" value="35.光明公司截止2007年9月20日的累计日积数为2,780,000，当日挂牌的活期存款利率为0.81%,计息并转账。(2009年7月)"/>
+<text tag="answer" value="利息=2780000*0.81%/360=62.55&#x0A;&#x0A;借：应付利息&#x0A;&#x0A;贷：活期存款-光明公司"/>
+</question>
+<question>
+<text tag="question" value="36.本行本旬应调增缴存财政性存款800,000元。(2009年7月)"/>
+<text tag="answer" value="借：存放中央银行款项-财政性准备金&#x0A;&#x0A;贷：存放中央银行款项-一般性准备金"/>
+</question>
+<question>
+<text tag="question" value="37.金鑫公司向本行提交银行“本票申请书”一式三联，申办银行不定额本票100,000元， 经审查立即办理。(2009年7月)"/>
+<text tag="answer" value="借：活期存款&#x0A;&#x0A;贷：本票"/>
+</question>
+<question>
+<text tag="question" value="38.汇源公司将转账支票和三联进账单提交本行，用以支付在本系统不同行处开户的清江公 司的货款900，000元，经审查立即办理。(2009年7月)"/>
+<text tag="answer" value="借：辖内往来&#x0A;&#x0A;贷：活期存款-汇源公司"/>
+</question>
+<question>
+<text tag="question" value="39.收到收报清算行传来数据，打印资金汇划补充借方凭证一式两联（汇票金额155，000元， 实际结算金额154,500元，余额500元），系长林企业申办的银行汇票，经审查立即办理。(2009年7月)"/>
+<text tag="answer" value="借：汇出汇款&#x0A;&#x0A;贷：辖内往来&#x0A;&#x0A;活期存款-长林企业"/>
+</question>
+<question>
+<text tag="question" value="40.开户的承德企业于2007年7月20日来行办理银行承兑汇票的贴现，汇票金额为6,000,000 元，票据到期日为2007年12月20日，贴现利率为5%。经审查立即办理。(2009年7月)"/>
+<text tag="answer" value="借：贴现&#x0A;&#x0A;利息收入&#x0A;&#x0A;贷：活期存款-承德企业"/>
+</question>
+<question>
+<text tag="question" value="41.本行将第五联托收承付凭证连同所附单证交付款人汇源公司后，付款人同意承付购货款 510，000元，经审查立即办理。(2009年7月)"/>
+<text tag="answer" value="借：活期存款-汇源公司&#x0A;&#x0A;贷：辖内往来或联行存放款项"/>
+</question>
+<question>
+<text tag="question" value="42.本行向跨系统的甲行拆入资金700，000元，依据资金管理部门提交的借款合同副本和人 民银行的收账通知，填制凭证并作出账务处理。(2009年7月)"/>
+<text tag="answer" value="借：存放中央银行款项&#x0A;&#x0A;贷：同业拆入-甲行"/>
+</question>
+<question>
+<text tag="question" value="43.经查看，当日有一笔申请人为银都公司的银行承兑汇票现已到期，金额为200，000元填 制两借一贷特种转帐传票办理转账。(2009年7月)"/>
+<text tag="answer" value="借：活期存款-银都公司&#x0A;&#x0A;贷：应解汇款及临时占款"/>
+</question>
+<question>
+<text tag="question" value="44.盘盈计算机一台，完全重置价值为20,000元，估计折旧为500元。(2009年7月)"/>
+<text tag="answer" value="借：固定资产&#x0A;&#x0A;贷：累计折旧&#x0A;&#x0A;待处理财产损益"/>
+</question>
+<question>
+<text tag="question" value="45.本季末月20日计算出甲贷款单位的短期借款利息为100，000元，其中的50，000元该 单位已用银行存款支付，剩下的50,000元，该单位暂欠。(2009年7月)"/>
+<text tag="answer" value="借：活期存款-甲贷款&#x0A;&#x0A;应收利息&#x0A;&#x0A;贷：利息收入"/>
+</question>
+</root>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<question title="1.下列属于银行基本凭证的是(2010年7月)" answer="特种转账借方凭证" note="">
+<choice>特种转账借方凭证</choice>
+<choice>转账支票</choice>
+<choice>进账单</choice>
+<choice>联行报单</choice>
+</question>
+<question title="2.明细核算系统的账务处理程序是(2010年7月)" answer="传票→分户账→余额表" note="">
+<choice>传票→科目日结单→总账→日计表</choice>
+<choice>传票→总账→日计表</choice>
+<choice>传票→分户账→余额表</choice>
+<choice>传票→分户账→余额表→登记簿</choice>
+</question>
+<question title="3.目前，在我国金融组织体系中仍居于主体地位的是(2010年7月)" answer="中央银行" note="">
+<choice>中央银行</choice>
+<choice>政策性银行</choice>
+<choice>商业银行</choice>
+<choice>非银行金融机构</choice>
+</question>
+<question title="4.存款人在银行开立的，用于办理日常经营活动的资金收付及其工资、奖金和现金支取的账户是(2010年7月)" answer="基本存款账户" note="">
+<choice>一般存款账户</choice>
+<choice>临时存款账户</choice>
+<choice>基本存款账户</choice>
+<choice>专用存款账户</choice>
+</question>
+<question title="5.银行会计对存、贷款计息时，计息积数是指(2010年7月)" answer="本金×时间" note="">
+<choice>本金×利率</choice>
+<choice>本金×时间</choice>
+<choice>本金的累积</choice>
+<choice>本金×时间×利率</choice>
+</question>
+<question title="6.银行会计对“贷款呆账准备”的核算，充分体现了(2010年7月)" answer="谨慎性原则" note="">
+<choice>权责发生制原则</choice>
+<choice>谨慎性原则</choice>
+<choice>历史成本原则</choice>
+<choice>划分两类支出的原则</choice>
+</question>
+<question title="7.不能按期(含展期)归还的且又符合核销条件的贷款是指(2010年7月)" answer="呆账贷款" note="">
+<choice>正常贷款</choice>
+<choice>逾期贷款</choice>
+<choice>呆滞贷款</choice>
+<choice>呆账贷款</choice>
+</question>
+<question title="8.将抵债资产入账时，其入账价值是(2010年7月)" answer="抵债资产净值" note="">
+<choice>抵债资产的原账面价值</choice>
+<choice>贷款本金</choice>
+<choice>实际抵债部分的贷款本金及应收利息之和</choice>
+<choice>抵债资产净值</choice>
+</question>
+<question title="9.申请人将款项交存银行后，由银行签发的，承诺自己在见票时无条件支付确定的金额给收款人或持票人的票据是(2010年7月)" answer="商业承兑汇票" note="">
+<choice>银行承兑汇票</choice>
+<choice>商业承兑汇票</choice>
+<choice>银行本票</choice>
+<choice>银行支票</choice>
+</question>
+<question title="10.既可以用于支取现金，也可以用于转账的支票是(2010年7月)" answer="普通支票" note="">
+<choice>普通支票</choice>
+<choice>转账支票</choice>
+<choice>现金支票</choice>
+<choice>划线支票</choice>
+</question>
+<question title="11.在电子汇划业务中，“清算资金往来”科目的记账方向确定的依据是(2010年7月)" answer="汇划业务是划收还是划付" note="">
+<choice>客户要求</choice>
+<choice>汇划业务是划收还是划付</choice>
+<choice>有关业务的具体规定</choice>
+<choice>汇出行还是汇入行</choice>
+</question>
+<question title="12.办理系统内各经办行之间的资金汇划、各清算行之间的资金清算及资金拆借、账户对账等账务的核算与管理的部门是(2010年7月)" answer="总行清算中心" note="">
+<choice>总行清算中心</choice>
+<choice>清算行</choice>
+<choice>收报经办行</choice>
+<choice>发报经办行</choice>
+</question>
+<question title="13.商业银行缴存财政性存款准备金，是由(2010年7月)" answer="各分行按旬末财政性存款科目余额就地缴存" note="">
+<choice>总行按旬末财政性存款科目余额的18%统一缴存</choice>
+<choice>各分行按旬末财政性存款科目余额的18%就地缴存</choice>
+<choice>总行按旬末财政性存款科目余额统一缴存</choice>
+<choice>各分行按旬末财政性存款科目余额就地缴存</choice>
+</question>
+<question title="14.商业银行解缴现金，其借方核算的科目是(2010年7月)" answer="存放中央银行款项" note="">
+<choice>库存现金</choice>
+<choice>向中央银行借款</choice>
+<choice>存放中央银行款项</choice>
+<choice>清算资金往来</choice>
+</question>
+<question title="15.金银的计价公式为(2010年7月)" answer="牌价×成色×毛重" note="">
+<choice>牌价×成色×毛重</choice>
+<choice>牌价×成色</choice>
+<choice>牌价×毛重</choice>
+<choice>牌价×枚数</choice>
+</question>
+<question title="16.买入外汇时，“外汇买卖”科目的(2010年7月)" answer="借方反映人民币金额，贷方反映外币金额" note="">
+<choice>借方反映外币金额，贷方反映人民币金额</choice>
+<choice>借方反映人民币金额，贷方反映外币金额</choice>
+<choice>借、贷方均反映外币金额</choice>
+<choice>借、贷方均反映人民币金额</choice>
+</question>
+<question title="17.当固定资产因出售、报废和毁损等原因转入清理时，应设置和运用的账户是(2010年7月)" answer="“固定资产清理”" note="">
+<choice>“固定资产”</choice>
+<choice>“在建工程”</choice>
+<choice>“固定资产清理”</choice>
+<choice>“累计折旧”</choice>
+</question>
+<question title="18.利润表填列的依据是(2010年7月)" answer="损益类账户的本期发生额" note="">
+<choice>账户的期初余额</choice>
+<choice>账户的期末余额</choice>
+<choice>账户的本期发生额</choice>
+<choice>损益类账户的本期发生额</choice>
+</question>
+<question title="19.银行的留存收益不包括．．．(2010年7月)" answer="资本公积" note="">
+<choice>资本公积</choice>
+<choice>法定公益金</choice>
+<choice>盈余公积</choice>
+<choice>未分配利润</choice>
+</question>
+<question title="20.下列各指标中，能够反映银行短期偿债能力的是(2010年7月)" answer="流动比率" note="">
+<choice>资本风险比率</choice>
+<choice>利润率</choice>
+<choice>流动比率</choice>
+<choice>资本金利润率</choice>
+</question>
+</root>

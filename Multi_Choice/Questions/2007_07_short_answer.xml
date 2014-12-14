@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<question>
+<text tag="question" value="34.开户A单位提交转账支票及进帐单一式三联，用以支付本行开户的B单位的销货 款76，000元，经审查后立即入账。(2007年7月)"/>
+<text tag="answer" value="借：辖内往来&#x0A;&#x0A;贷：活期存款-A公司"/>
+</question>
+<question>
+<text tag="question" value="35.甲单位投入货币资金15，000，000元，其注册资本为12，000，000元。(2007年7月)"/>
+<text tag="answer" value="借：活期存款&#x0A;&#x0A;贷：实收资本"/>
+</question>
+<question>
+<text tag="question" value="36.经查看，本日有一笔申请人为乙单位的银行承兑汇票400，000元，现已到期，填制 两借一贷特种转账传票立即办理转账。(2007年7月)"/>
+<text tag="answer" value="借：活期存款-银都公司&#x0A;&#x0A;贷：应解汇款及临时占款"/>
+</question>
+<question>
+<text tag="question" value="37.开户甲单位向银行提交“银行汇票申请书”一式三联，申请签发银行汇票，金额为 650，000元，银行经审查确认无误，签发银行汇票。(2007年7月)"/>
+<text tag="answer" value="借：活期存款-甲公司&#x0A;&#x0A;贷：汇出汇款-家公司"/>
+</question>
+<question>
+<text tag="question" value="38.银行收到开户乙单位提交的银行承兑汇票贴现申请，汇票面额为700，000元，贴现 
+利息为9654元，经审查立即办理。(2007年7月)"/>
+<text tag="answer" value="借：贴现&#x0A;&#x0A;贷：利息收入&#x0A;&#x0A;活期存款-甲公司"/>
+</question>
+<question>
+<text tag="question" value="39.开户乙单位来行提交“银行本票申请书”一式三联，要求申办银行不定额本票，金额 200，000元。银行经审查确认无误，签发银行本票。(2007年7月)"/>
+<text tag="answer" value="借：活期存款-红旗公司&#x0A;&#x0A;贷：本票-不定额本票"/>
+</question>
+<question>
+<text tag="question" value="40.收到系统内北京市分行某办事处的资金汇划信息，经审查是本行开户甲单位的电汇收货款项，金额为500，000元，经审查后立即入账。(2007年7月)"/>
+<text tag="answer" value="借：清算资金往来&#x0A;&#x0A;贷：活期存款"/>
+</question>
+<question>
+<text tag="question" value="41.本行向跨系统的某行借入资金800，000元，当收到开户人行的收账通知和拆出行的借据回单时，办理转账。(2007年7月)"/>
+<text tag="answer" value="借：存放中央银行款项&#x0A;&#x0A;贷：同业拆入-A行"/>
+</question>
+<question>
+<text tag="question" value="42.经计算，本季应提取固定资产折旧金额为30，000元(2007年7月)"/>
+<text tag="answer" value="借：累计折旧&#x0A;&#x0A;贷：固定资产"/>
+</question>
+<question>
+<text tag="question" value="43.计算，本季预提法定盈余公积金300，000元。(2007年7月)"/>
+<text tag="answer" value="借：利润分配—提取盈余 公积金&#x0A;&#x0A;贷：盈余公积-法定盈余公积"/>
+</question>
+</root>

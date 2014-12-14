@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<question title="1.各存款单位只能在银行开立一个(2011年7月)" answer="基本存款账户" note="">
+<choice>一般存款账户</choice>
+<choice>临时存款账户</choice>
+<choice>基本存款账户</choice>
+<choice>专用存款账户</choice>
+</question>
+<question title="2.适用于在账页上计息的银行分户账户是(2011年7月)" answer="乙种账" note="">
+<choice>甲种账</choice>
+<choice>乙种账</choice>
+<choice>丙种账</choice>
+<choice>丁种账</choice>
+</question>
+<question title="3.对下列银行会计业务的处理，可采用单式记账法进行核算的是(2011年7月)" answer="贷款承诺事项" note="">
+<choice>对内结算事项</choice>
+<choice>贷款承诺事项</choice>
+<choice>对外结算事项</choice>
+<choice>期末调整事项</choice>
+</question>
+<question title="4.在银行开立存款账户的法人以及其他组织之间，当具有真实的交易关系或债权、债务关系时，办理结算才能使用(2011年7月)" answer="商业汇票结算" note="">
+<choice>商业汇票结算</choice>
+<choice>支票结算</choice>
+<choice>银行汇票结算</choice>
+<choice>银行本票结算</choice>
+</question>
+<question title="5.银行汇票签发期转存票款所使用的科目是(2011年7月)" answer="汇出汇款" note="">
+<choice>汇出汇款</choice>
+<choice>应解汇款及临时存款</choice>
+<choice>开出本票</choice>
+<choice>保证金</choice>
+</question>
+<question title="6.银行计息时若采用“累计日积数法”，其计息积数是指(2011年7月)" answer="本金×时间" note="">
+<choice>本金×时间×利率</choice>
+<choice>本金×时间</choice>
+<choice>本金×利率</choice>
+<choice>时间×利率</choice>
+</question>
+<question title="7.银行在每季末月20日或每月20日对贷款户结计利息的计息方式是(2011年7月)" answer="定期计息" note="">
+<choice>利随本清</choice>
+<choice>随时计息</choice>
+<choice>定期计息</choice>
+<choice>积数查算表计息</choice>
+</question>
+<question title="8.银行会计对“应收利息”的核算，在会计制度限定的时间内应记入当期损益，这充分体现了(2011年7月)" answer="权责发生制原则" note="">
+<choice>权责发生制原则</choice>
+<choice>历史成本原则</choice>
+<choice>划分两类支出的原则</choice>
+<choice>谨慎性原则</choice>
+</question>
+<question title="9.为了加强内控，联行凭证、联行专用章、联行密押应由(2011年7月)" answer="三人保管" note="">
+<choice>一人保管</choice>
+<choice>二人保管</choice>
+<choice>三人保管</choice>
+<choice>业务主管保管</choice>
+</question>
+<question title="10.一个商业银行系统内的清算行在总行存入备付金时，可运用的会计科目是(2011年7月)" answer="存放中央银行款项" note="">
+<choice>系统内上存款项</choice>
+<choice>系统内款项存放</choice>
+<choice>存放中央银行款项</choice>
+<choice>存放同业款项</choice>
+</question>
+<question title="11.以一定单位的本国货币作为标准，折算成一定数额的外国货币是(2011年7月)" answer="间接标价法" note="">
+<choice>直接标价法</choice>
+<choice>中间价</choice>
+<choice>买卖两档汇价制</choice>
+<choice>间接标价法</choice>
+</question>
+<question title="12.银行的固定资产因出售、报废和毁损等原因转入清理时，应设置和运用的账户是(2011年7月)" answer="“固定资产清理”" note="">
+<choice>“在建工程”</choice>
+<choice>“固定资产清理”</choice>
+<choice>“其他营业支出”</choice>
+<choice>“营业外支出”</choice>
+</question>
+<question title="13.银行购买国债所取得的国债利息收入，属于(2011年7月)" answer="投资收益" note="">
+<choice>利息收入</choice>
+<choice>汇兑收益</choice>
+<choice>其他营业收入</choice>
+<choice>投资收益</choice>
+</question>
+<question title="14.银行的留存收益不包括(2011年7月)" answer="资本公积" note="">
+<choice>资本公积</choice>
+<choice>盈余公积</choice>
+<choice>法定公益金</choice>
+<choice>未分配利润</choice>
+</question>
+<question title="15.出纳长款按规定的审批手续予以报损时，应确认为银行的(2011年7月)" answer="营业外收入" note="">
+<choice>其他营业收入</choice>
+<choice>利息收入营业外收入</choice>
+<choice>营业外收入</choice>
+<choice>投资收益</choice>
+</question>
+<question title="16.银行外汇业务在记账方法上的特点表现为主要采用(2011年7月)" answer="外汇分账制" note="">
+<choice>单式记账法</choice>
+<choice>借贷复式记账法</choice>
+<choice>外汇统账制</choice>
+<choice>外汇分账制</choice>
+</question>
+<question title="17.能够反映商业银行一定时期财务状况增减变化过程及其原因的会计报表是(2011年7月)" answer="资产负债表" note="">
+<choice>现金流量表</choice>
+<choice>资产负债表</choice>
+<choice>利润表</choice>
+<choice>利润分配表</choice>
+</question>
+<question title="18.用以反映银行短期偿债能力的指标是(2011年7月)" answer="流动比率" note="">
+<choice>资本风险比率</choice>
+<choice>流动比率</choice>
+<choice>固定资本比率</choice>
+<choice>利润率</choice>
+</question>
+<question title="19.摊销无形资产借记的账户是(2011年7月)" answer="“营业费用”" note="">
+<choice>“其他营业支出”</choice>
+<choice>“营业外支出”</choice>
+<choice>“营业费用”</choice>
+<choice>“手续费支出”</choice>
+</question>
+<question title="20.能够记入“营业税金及附加”账户借方的税金是(2011年7月)" answer="印花税" note="">
+<choice>房产税</choice>
+<choice>印花税</choice>
+<choice>土地使用税</choice>
+<choice>城市维护建设税</choice>
+</question>
+</root>
