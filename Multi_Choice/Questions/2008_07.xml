@@ -42,11 +42,11 @@
 <choice>摊销无形资产</choice>
 <choice>按加速折旧法计提固定资产的折旧费</choice>
 </question>
-<question title="8.银行本票的提示付款期限最长不得．．超过(2008年7月)" answer="2个月" note="">
-<choice>10天</choice>
-<choice>1个月</choice>
-<choice>2个月</choice>
-<choice>6个月</choice>
+<question title="8.银行本票的提示付款期限最长不得．．超过(2008年7月)" answer="２个月" note="">
+<choice>１０天</choice>
+<choice>１个月</choice>
+<choice>２个月</choice>
+<choice>６个月</choice>
 </question>
 <question title="9.出票行接到收款人交来“现金”字样的现金本票时，应审查本票收款人是否(2008年7月)" answer="确为个人" note="">
 <choice>确为法人</choice>

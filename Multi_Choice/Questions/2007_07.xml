@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-<question title="1．除人民银行另有规定外，支票的提示付款期自出票日起(2007年7月)" answer="3天" note="">
-<choice>3天</choice>
-<choice>5天</choice>
-<choice>7天</choice>
-<choice>10天</choice>
+<question title="1．除人民银行另有规定外，支票的提示付款期自出票日起(2007年7月)" answer="３天" note="">
+<choice>３天</choice>
+<choice>５天</choice>
+<choice>７天</choice>
+<choice>１０天</choice>
 </question>
 <question title="2．银行会计具有严密的内部控制管理机制和制度，这体现了银行会计的(2007年7月)" answer="特点" note="">
 <choice>职能</choice>
@@ -58,7 +58,7 @@
 <choice>先直后横法</choice>
 <choice>先横后直法</choice>
 <choice>直接通过联行电子汇划清算系统办理</choice>
-<choice>先直后横再直法11．银行保管现金、金银、外币以及其他贵重物品的场所是（A）</choice>
+<choice>先直后横再直法</choice>
 </question>
 <question title="11．银行保管现金、金银、外币以及其他贵重物品的场所是(2007年7月)" answer="保险柜" note="">
 <choice>保险柜</choice>
@@ -82,7 +82,7 @@
 <choice>账户的期初余额</choice>
 <choice>账户的期末余额</choice>
 <choice>损益类账户的本期发生额</choice>
-<choice>账户的本期发生额15．购入固定资产入账价值的核算应遵循（C）</choice>
+<choice>账户的本期发生额</choice>
 </question>
 <question title="15．购入固定资产入账价值的核算应遵循(2007年7月)" answer="历史成本原则" note="">
 <choice>谨慎性原则</choice>
@@ -96,11 +96,11 @@
 <choice>先记付款入账，后记收款入账，收妥抵用</choice>
 <choice>先外后内，先急后缓</choice>
 </question>
-<question title="17．既可以用于支取现金，也可以用于转账的支票是(2007年7月)" answer="普通支票18．下列各项指标中能够反映银行的资本风险程度的是（B）" note="">
+<question title="17．既可以用于支取现金，也可以用于转账的支票是(2007年7月)" answer="普通支票" note="">
 <choice>现金支票</choice>
 <choice>划线支票</choice>
 <choice>转账支票</choice>
-<choice>普通支票18．下列各项指标中能够反映银行的资本风险程度的是（B）</choice>
+<choice>普通支票</choice>
 </question>
 <question title="18．下列各项指标中能够反映银行的资本风险程度的是(2007年7月)" answer="逾期贷款/资本金×100％" note="">
 <choice>流动资产/流动负债×100％</choice>

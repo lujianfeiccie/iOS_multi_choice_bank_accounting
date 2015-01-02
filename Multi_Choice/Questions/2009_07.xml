@@ -60,11 +60,11 @@
 <choice>抵债资产净值</choice>
 <choice>实际抵债部分的贷款本金和已确认的利息</choice>
 </question>
-<question title="11.商业汇票的提示付款期为(2009年7月)" answer="10天" note="">
-<choice>10天</choice>
-<choice>1个月</choice>
-<choice>2个月</choice>
-<choice>6个月</choice>
+<question title="11.商业汇票的提示付款期为(2009年7月)" answer="１０天" note="">
+<choice>１０天</choice>
+<choice>１个月</choice>
+<choice>２个月</choice>
+<choice>６个月</choice>
 </question>
 <question title="12.在电子汇划业务中，“清算资金往来”账户是(2009年7月)" answer="资产、负债共同类账户" note="">
 <choice>资产类账户</choice>
@@ -102,17 +102,17 @@
 <choice>固定资产原值的加项反映</choice>
 <choice>固定资产净值的加项反映</choice>
 </question>
-<question title="18.年末，银行会计应将全年实现的净利润（或亏损）总额，从“本年利润”账户转入(2009年7月)" answer="&quot;利润分配—未分配利润&quot;账户" note="">
-<choice>"利润分配—未分配利润"账户</choice>
-<choice>"营业收入"账户</choice>
-<choice>"实收资本"账户</choice>
-<choice>"盈余公积"账户</choice>
+<question title="18.年末，银行会计应将全年实现的净利润（或亏损）总额，从“本年利润”账户转入(2009年7月)" answer="利润分配—未分配利润账户 note="">
+<choice>利润分配—未分配利润账户</choice>
+<choice>营业收入账户</choice>
+<choice>实收资本账户</choice>
+<choice>盈余公积账户</choice>
 </question>
-<question title="19.摊销无形资产借记的账户是(2009年7月)" answer="&quot;营业费用&quot;" note="">
-<choice>"其他营业支出"</choice>
-<choice>"营业外支出"</choice>
-<choice>"手续费支出"</choice>
-<choice>"营业费用"</choice>
+<question title="19.摊销无形资产借记的账户是(2009年7月)" answer="营业费用" note="">
+<choice>其他营业支出</choice>
+<choice>营业外支出</choice>
+<choice>手续费支出</choice>
+<choice>营业费用</choice>
 </question>
 <question title="20.能够反映商业银行一定时期财务状况增减变化过程及其原因的会计报表是(2009年7月)" answer="资产负债表" note="">
 <choice>现金流量表</choice>
